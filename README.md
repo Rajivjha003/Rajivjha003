@@ -1,6 +1,6 @@
 # Hey 👋, I'm Rajiv!
 
-<img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/be0f19b7c34382e278295aeee826fb9c91c66860/rajiv-header-image.png" alt="Image Discription About Me">
+<img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/RajivCoverImage.png" alt="Image Discription About Me">
 <div align="center">
   <p>
     I'm Rajiv Ranjan Jha, a visionary machine learning professional, embracing data science as not merely a profession but a lifelong odyssey of innovation. Fueled by the profound impact of data, I am on a steadfast mission to revolutionize industries, redefine possibilities, and embrace the extraordinary future that data science unveils.
