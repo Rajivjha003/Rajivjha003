@@ -1,18 +1,27 @@
 # Hey! 👋 I'm Rajiv
 
+
+
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/r.gif" alt="GIF" width="1234" height="414">
+  <img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/r.gif" alt="GIF" width="1234" height="314">
 </div>
 
-<div align="center">
+</br>
+
+
+</br>
+
+<div align="center" style="font-family: 'Bree Serif'; font-weight: bold;">
   <p>
     I'm Rajiv Ranjan Jha, a visionary AI professional, embracing data science not merely as a profession but as a lifelong odyssey of innovation. Fueled by the profound impact of data, I am on a steadfast mission to revolutionize industries, redefine possibilities, and embrace the extraordinary future that data science unveils.
   </p>
 </div>
 
 
+
+
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" alt="GIF" width="1234" height="414">
+  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" alt="GIF" width="1234" height="214">
 </div>
 
 
@@ -22,7 +31,7 @@
    <a href="https://github.com/Rajivjha003?tab=followers"><img alt="GitHub followers" title="GitHub followers" src="https://img.shields.io/github/followers/Rajivjha003?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
     <a href="https://github.com/Rajivjha003"> <img src="https://komarev.com/ghpvc/?username=Rajivjha003&style=for-the-badge&color=brightgreen"> </a>
    
-
+</br>
 
 ## 🔭 Currently Working On
 
