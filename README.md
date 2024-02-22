@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/rajiv-ranjan-jha-586494283/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rajiv.jha.0003@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="mailto:rajiv.jha.0003@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://github.com/Rajivjha003?tab=followers"><img alt="GitHub followers" title="GitHub followers" src="https://img.shields.io/github/followers/Rajivjha003?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
     <a href="https://github.com/Rajivjha003"> <img src="https://komarev.com/ghpvc/?username=Rajivjha003&style=for-the-badge&color=brightgreen"> </a>
    
