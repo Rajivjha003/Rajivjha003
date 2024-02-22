@@ -1,7 +1,7 @@
 # Hey! 👋 I'm Rajiv
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/r.gif" alt="GIF" width="600">
+  <img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/r.gif" alt="GIF" width="1234" height="414">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" alt="GIF" width="600">
+  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" alt="GIF" width="1234" height="414">
 </div>
 
 
