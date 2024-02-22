@@ -1,7 +1,7 @@
 # Hey! 👋 I'm Rajiv
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/RAJIV%20PORT.gif" alt="Animated portfolio showcasing Rajiv's projects and skills">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/r.gif" alt="GIF" width="600">
 </div>
 
 <div align="center">
