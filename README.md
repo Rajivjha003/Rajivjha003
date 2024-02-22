@@ -1,11 +1,15 @@
-# Hey 👋, I'm Rajiv!
+# Hey! 👋 I'm Rajiv
 
-<img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/RajivCoverImage.png" alt="Image Discription About Me">
+<div align="center">
+  <img src="https://github.com/Rajivjha003/Rajivjha003/blob/main/RAJIV%20PORTFOLIO.gif" alt="Animated portfolio showcasing Rajiv's projects and skills">
+</div>
+
 <div align="center">
   <p>
-    I'm Rajiv Ranjan Jha, a visionary AI professional, embracing data science as not merely a profession but a lifelong odyssey of innovation. Fueled by the profound impact of data, I am on a steadfast mission to revolutionize industries, redefine possibilities, and embrace the extraordinary future that data science unveils.
+    I'm Rajiv Ranjan Jha, a visionary AI professional, embracing data science not merely as a profession but as a lifelong odyssey of innovation. Fueled by the profound impact of data, I am on a steadfast mission to revolutionize industries, redefine possibilities, and embrace the extraordinary future that data science unveils.
   </p>
 </div>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" alt="GIF" width="600">
