@@ -3,12 +3,21 @@
 <img src="https://raw.githubusercontent.com/Rajivjha003/Rajivjha003/main/RajivCoverImage.png" alt="Image Discription About Me">
 <div align="center">
   <p>
-    I'm Rajiv Ranjan Jha, a visionary machine learning professional, embracing data science as not merely a profession but a lifelong odyssey of innovation. Fueled by the profound impact of data, I am on a steadfast mission to revolutionize industries, redefine possibilities, and embrace the extraordinary future that data science unveils.
+    I'm Rajiv Ranjan Jha, a visionary AI professional, embracing data science as not merely a profession but a lifelong odyssey of innovation. Fueled by the profound impact of data, I am on a steadfast mission to revolutionize industries, redefine possibilities, and embrace the extraordinary future that data science unveils.
   </p>
 </div>
 
-[![Viewers](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.profileViews&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FRajivjha003%2FgithubProfileViews)](https://github.com/Rajivjha003)
-  [![GitHub followers](https://shields.io/github/followers/Rajivjha003?label=Followers&style=social)](https://github.com/Rajivjha003)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" alt="GIF" width="600">
+</div>
+
+
+<p align="center">
+  <a href="www.linkedin.com/in/rajiv-ranjan-jha-586494283/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rajiv.jha.0003@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://github.com/Rajivjha003?tab=followers"><img alt="GitHub followers" title="GitHub followers" src="https://img.shields.io/github/followers/Rajivjha003?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+    <a href="https://github.com/Rajivjha003"> <img src="https://komarev.com/ghpvc/?username=Rajivjha003&style=for-the-badge&color=brightgreen"> </a>
+   
 
 
 ## 🔭 Currently Working On
@@ -43,8 +52,44 @@
 ## ⚡ Fun Fact
 
 - I'm also passionate about photography and love capturing beautiful moments.
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+## Languages and Tools
+
+<p align="left"> 
+  <a href="https://github.com/Rajivjha003"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/></a>
+  <a href="https://github.com/Rajivjha003"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/></a>
+  <a href="https://github.com/Rajivjha003"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machinelearning/machinelearning-original.svg" alt="Machine Learning" title="Machine Learning" width="40" height="40"/></a>
+  <a href="https://github.com/Rajivjha003"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/deeplearning/deeplearning-original.svg" alt="Deep Learning" title="Deep Learning" width="40" height="40"/></a>
+  <a href="https://github.com/Rajivjha003"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/natural/natural-original.svg" alt="Natural Language Processing" title="Natural Language Processing" width="40" height="40"/></a>
+  <a href="https://github.com/Rajivjha003"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/computer/computer-original.svg" alt="Computer Vision" title="Computer Vision" width="40" height="40"/></a>
+  <a href="https://github.com/Rajivjha003"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" title="OpenAI" width="40" height="40"/></a>
+</p>
+
+
+
+
+
+
+## My Stats:
+
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Rajivjha003&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/Rajivjha003">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajivjha003&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+## Top Respositories
+<p align="left">
+   <a href="https://github.com/Rajivjha003/Cardiovascular-Risk-Prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rajivjha003&repo=Cardiovascular-Risk-Prediction&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Rajivjha003/Retail-Sales-Prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rajivjha003&repo=Retail-Sales-Prediction&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/Rajivjha003/ATS_Analyzer "><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rajivjha003&repo=ATS_Analyzer&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajivjha003&layout=pie)](https://github.com/Rajivjha003/github-readme-stats)
 ---
